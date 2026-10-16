@@ -3,3 +3,5 @@
 .hero-role{font-size:16px;color:#d5e5e9;letter-spacing:.2px;margin:0 0 22px}.intro-copy{max-width:820px;color:var(--muted);margin:-8px 0 28px}.wordmark{white-space:nowrap}
 
 .profile-links{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:24px 0 14px}.profile-button{font-size:14px}.profile-pending{font-size:13px;color:var(--muted);padding:9px 0}.small-note{font-size:13px;color:var(--muted)}
+
+.read-more{display:inline-block;font-weight:700;font-size:14px;margin-top:8px}.subhero{background:linear-gradient(120deg,#123044,#1c505c);padding:76px 0;color:white}.subhero h1{font-size:clamp(35px,4.5vw,55px)}.subhero .eyebrow{color:#80d5d1}.subhero .lead{font-size:18px}
